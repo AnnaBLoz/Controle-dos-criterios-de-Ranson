@@ -25,7 +25,7 @@ class _RansonCriteriaAppState extends State<RansonCriteriaApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Critérios de Ranson"),
+          title: Text("Novo Paciente"),
         ),
         body: Padding(
           padding: const EdgeInsets.all(16.0),
